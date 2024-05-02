@@ -50,5 +50,8 @@ public class ContaTerminal {
                 .concat(String.format("%.2f", saldo))
                 .concat(" já está disponível para saque."));
         System.out.println("\n* * * * *\n");
+        
+        // Fechar Scanner
+        sc.close();
     }
 }
