@@ -1,5 +1,7 @@
 # Conta Bancária
-#### Projeto Java Básico
+## Projeto Java Básico
+#### Por: DIO (Digital Innovation One)
+
 ![Saída no Terminal](terminal.png "Saída do Terminal")
 
 ### Sobre o Projeto
